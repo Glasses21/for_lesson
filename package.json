@@ -1,0 +1,23 @@
+{
+  "name": "for_lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serv": "static"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Glasses21/for_lesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glasses21/for_lesson/issues"
+  },
+  "homepage": "https://github.com/Glasses21/for_lesson#readme",
+  "dependencies": {
+    "node-static": "^0.7.11"
+  }
+}
