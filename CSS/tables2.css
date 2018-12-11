@@ -1,0 +1,26 @@
+table{
+    border-collapse: collapse;
+}
+th{
+    padding: 10px;
+}
+td{
+    padding: 10px;
+    text-align: center;
+}
+.right{
+    text-align:right;
+    background-color:thistle;
+}
+.color1 {
+    background-color: lightgreen;
+}
+.color2{
+    background-color:thistle;
+}
+.color3{
+    background-color: lightcyan;
+}
+.color4{
+    background-color: lightgrey;
+}
